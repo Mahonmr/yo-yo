@@ -1,0 +1,23 @@
+{
+  "name": "codereviewgit",
+  "description": "project for code review",
+  "main": "index.js",
+  "authors": [
+    "mike mahoney"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6",
+    "moment": "^2.11.2"
+  }
+}
